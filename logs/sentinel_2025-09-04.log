@@ -1,0 +1,7 @@
+[2025-09-04 14:12:27] ⚠️ sshd is DOWN. Attempting restart...
+[2025-09-04 14:12:27] 🚨 Failed to restart sshd
+[2025-09-04 14:12:27] ⚠️ cron is DOWN. Attempting restart...
+[2025-09-04 14:12:27] 🚨 Failed to restart cron
+🔍 ServiceSentinel check started: Thu Sep  4 02:23:22 PM WAT 2025
+🔍 ServiceSentinel check started: Thu Sep  4 03:23:27 PM WAT 2025
+[2025-09-04 15:39:51] 🔍 ServiceSentinel check started: Thu Sep  4 03:39:51 PM WAT 2025
